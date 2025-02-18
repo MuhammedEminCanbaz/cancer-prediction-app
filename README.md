@@ -10,10 +10,7 @@ This project was created by building a cancer prediction model using Linear Regr
 ## Usage
 The use of the project has been kept very simple and a user-friendly interface has been designed. By using the SideBar on the left, the values that a patient may have can be changed and at the same time, the graph on the screen is displayed with these values. At the same time, the model is working on the changing values and instantly calculates and shows the result.
 
-Web uygulamasına kolayca erişmek için [tıklayın](https://web-application-to-cancer-prediction.streamlit.app/).
-
-Projenin kullanımı gayet basit tutulmuş ve kullanıcı dostu bir arayüz tasarlamak amaçlanmıştır. Sol kısımdaki SideBar kullanılarak bir hastanın sahip olabileceği değerler değiştirilebilmekte ve bu değerlerle eşdeğer
-zamanda ekrandaki grafik de görüntülenmektedir. Aynı zamanda değişen değerler üzerinden model çalışmakta ve anlık olarak hesaplama yapıp sonucu göstermektedir.
+Click [here](https://web-application-to-cancer-prediction.streamlit.app/) to easily access the web application.
 
 ## Model Description
 
