@@ -1,21 +1,25 @@
-# Streamlit Uygulaması Üzerinden Kanser Tahminleme
+# Cancer Prediction with Streamlit
 
-Bu proje Lineer Regresyon kullanılarak bir kanser tahminleme modeli oluşturulması ve Streamlit Kütüphanesi yardımıyla Bir Web Aplikasyonu haline getirilmesi sonucu oluşturulmuştur.
+This project was created by building a cancer prediction model using Linear Regression and turning it into a Web Application with the help of the Streamlit Library.
 
-## Kurulum
-* Öncelikle Projeyi Yükleyin
-* Gerekli Kütüphaneleri Kurun
-* "Streamlit run app/main.py" komutu ile çalıştırın
+## Installation
+* First, download the Project
+* Install the necessary libraries
+* Run with the command "Streamlit run app/main.py"
 
-## Kullanım
+## Usage
+The use of the project has been kept very simple and a user-friendly interface has been designed. By using the SideBar on the left, the values that a patient may have can be changed and at the same time, the graph on the screen is displayed with these values. At the same time, the model is working on the changing values and instantly calculates and shows the result.
+
+Web uygulamasına kolayca erişmek için [tıklayın](https://web-application-to-cancer-prediction.streamlit.app/).
+
 Projenin kullanımı gayet basit tutulmuş ve kullanıcı dostu bir arayüz tasarlamak amaçlanmıştır. Sol kısımdaki SideBar kullanılarak bir hastanın sahip olabileceği değerler değiştirilebilmekte ve bu değerlerle eşdeğer
 zamanda ekrandaki grafik de görüntülenmektedir. Aynı zamanda değişen değerler üzerinden model çalışmakta ve anlık olarak hesaplama yapıp sonucu göstermektedir.
 
-## Model Açıklaması
+## Model Description
 
-Kullanılan model lineer regresyon modelidir. Küçük bir veri setiyle oluşturulmuş fakat verilerin düzenli ve kullanılabilir oluşundan verimli bir model oluşması sağlanmıştır.
-Modelin oluşturulma ve Web Aplikasyonuna dönüştürülme sebebi öğrenme sürecinde olmam ve kendimi geliştirmek adına projeler yapmamdan kaynaklıdır. Ayrıca öğrenme sürecindeki diğer kişilere bir pratik örnek vasfı taşımakta,
-hem model oluşturma ve bu modellerin export ve import edilme süreci, hem genel python kullanımı hem de Streamlit kütüphanesi ile kolayca web Aplikasyonu oluşturma konusunda önemli bir örnek teşkil edebilir.
+The model used is the linear regression model. Although it was created with a small data set, a productive model was formed due to the regularity and usability of the data.
+The reason for creating the model and converting it into a Web Application is due to my learning process and making projects to improve myself. In addition, it has a practical example for other people in the learning process,
+It can be an important example in terms of both the model creation and export and import process of these models, general python use, and easily creating a web application with the Streamlit library.
 
-## Ekler
-Projeyi inceleme fırsatı olan kişilerden geri dönüş ve yorum beklemekteyim. 
+## Additions
+I expect feedback and comments from those who have the opportunity to review the project.
